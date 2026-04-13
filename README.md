@@ -40,13 +40,14 @@ Z轴：虚部的"镜像深度"
 临界线 1/2 在二维平面上的"必然性"，源于三维管道几何的投影。
 
 ## 手稿记录
-| 类型 | 图片 | 说明 | 日期 |
-|------|------|------|------|
-| 我的手稿 | [手稿5](manuscript/IMG_20260414_035057.jpg) | "虚部是一面镜子" - 关键逆推公式 | 2026-04-14 |
-| 我的手稿 | [手稿4](manuscript/IMG_20260414_035015.jpg) | 03页（γ的态函数）- 稳定态/随机态 | 2026-04-14 |
-| 我的手稿 | [手稿3](manuscript/IMG_20260414_034957.jpg) | 02页（S环公式）- 圆环面积公式 | 2026-04-14 |
-| 我的手稿 | [手稿2](manuscript/IMG_20260414_034925.jpg) | 01页（蓝色圆环）- J常数核心定义 | 2026-04-14 |
-| 网络图 | [手稿1]([manuscript/IMG_20260414_033842.jpg](https://github.com)) | 黎曼ζ函数（彩色）- 背景知识 | 2026-04-14 |
+| 手稿 | 图片 | 说明 |
+|-----|------|------|
+| 手稿1 | ![手稿1](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_033842.png) | 黎曼ζ函数（彩色）- 背景知识 |
+| 手稿2 | ![手稿2](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034957.jpg) | 01页（蓝色圆环）- J常数核心定义 |
+| 手稿3 | ![手稿3](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035015.jpg) | 02页（S环公式）- 圆环面积公式 |
+| 手稿4 | ![手稿4](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035057.jpg) | 03页（γ的态函数）- 稳定态/随机态 |
+| 手稿5 | ![手稿5](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034925.jpg) | "虚部是一面镜子" - 关键逆推公式 |
+
 
 ## 待完成工作
 
