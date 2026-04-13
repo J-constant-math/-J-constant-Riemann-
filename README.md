@@ -43,10 +43,10 @@ Z轴：虚部的"镜像深度"
 | 手稿 | 图片 | 说明 |
 |-----|------|------|
 | 手稿1 | ![手稿1](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_033842.png) | 黎曼ζ函数（彩色）- 背景知识 |
-| 手稿2 | ![手稿2](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034957.jpg) |"虚部是一面镜子" - 关键逆推公式  |
-| 手稿3 | ![手稿3](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035015.jpg) | 01页（蓝色圆环）- J常数核心定义 |
-| 手稿4 | ![手稿4](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035057.jpg) | 02页（S环公式）- 圆环面积公式 |
-| 手稿5 | ![手稿5](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034925.jpg) | 03页（γ的态函数）- 稳定态/随机态 |
+| 手稿2 | ![手稿2](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034957.jpg) | 02页（S环公式）- 圆环面积公式 |
+| 手稿3 | ![手稿3](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035015.jpg) | 03页（γ的态函数）- 稳定态/随机态 |
+| 手稿4 | ![手稿4](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035057.jpg) | "虚部是一面镜子" - 关键逆推公式 |
+| 手稿5 | ![手稿5](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034925.jpg) | 01页（蓝色圆环）- J常数核心定义 |
 
 
 ## 待完成工作
