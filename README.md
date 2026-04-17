@@ -49,10 +49,16 @@ J(s) = F_1(s) + F_2(s) + F_3(s)
 - `main.tex`：论文 LaTeX 源码
 - `README.md`：项目说明文档
 - `formula-derivation.md`：公式推导草稿
+
+- 
 | 网图1 | ![手稿1](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_033842.png) | 黎曼ζ函数（彩色）- 背景知识 |
+
 | 手稿1 | ![手稿1](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034925.jpg) | 01页（蓝色圆环）- J常数核心定义 |
+
 | 手稿2 | ![手稿2](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_034957.jpg) | 02页（S环公式）- 圆环面积公式 |
+
 | 手稿3 | ![手稿3](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035015.jpg) | 03页（γ的态函数）- 稳定态/随机态 |
+
 | 手稿4 | ![手稿4](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035057.jpg) | "虚部是一面镜子" - 关键逆推公式 |
 
 
