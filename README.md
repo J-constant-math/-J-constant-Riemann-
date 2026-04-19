@@ -61,7 +61,7 @@ J(s) = F_1(s) + F_2(s) + F_3(s)
 
 | 手稿4 | ![手稿4](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/IMG_20260414_035057.jpg) | "虚部是一面镜子" - 关键逆推公式 |
 
-图2. J-恒定壁厚约束下的黎曼ζ函数非平凡零点分布
+|图2| ![图2](https://github.com/J-constant-math/-J-constant-Riemann-/blob/main/d97895aba87f0bdfa66d94069fdccda0e999fe079652bcd68fbc2cecd7f3cbc9.1.jpg) |J-恒定壁厚约束下的黎曼ζ函数非平凡零点分布|
  
 为直观解释黎曼猜想，本图构建了三维几何模型：σ轴为复变量实部，t轴为虚部，垂直轴为作者定义的J-恒定壁厚方向。临界线σ=1/2沿壁厚方向延伸为对称平面，厚度为J。所有非平凡零点（蓝色圆点）均位于该平面上，在此平面内，零点的共轭对称性导致实部项F_2恒为零。
  
