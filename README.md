@@ -18,7 +18,8 @@ The framework establishes that all non-trivial zeros of the Riemann zeta functio
 - **Fundamental Hypothesis**: \(J = \gamma/(2\pi)\) emerges from a concentric ring geometric model.
 - **Elliptic Compensation Identity**: \(C + 2J = 2\pi(a-b)\), implying the invariant \(U = 2J\).
 - **Main Theorem (Necessity)**: Every non-trivial zero satisfies \(U(t_n) = 2J\).
-- **Coupling Theorem (Sufficiency)**: A coupled discriminant function \(\Psi(t)\) vanishes *iff* \(t\) is a zero on the critical line.
+- **Coupling Theorem (Sufficiency)**: A coupled discriminant function \(\Psi(t)\) vanishes **iff** \(t\) is a zero on the critical line.
+**Remark:** \(\Psi(t)\) couples the analytic zero condition of \(\zeta(s)\) with the geometric wall-thickness condition \(U(t)=2J\), forming a non-trivial necessary and sufficient condition for RH.
 - **Numerical Validation**: Over 100 low-lying and high-lying zeros, \(\Psi(t_n)\) plunges to machine precision (\(10^{-30}\sim10^{-19}\)), while off-zero points yield \(\Psi(t) \ge 10^{-1}\)—a discriminative margin exceeding \(10^{24}\).
 
 ## Human–AI Collaboration
