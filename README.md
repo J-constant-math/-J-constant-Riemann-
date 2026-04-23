@@ -1,5 +1,7 @@
 # J-Constant Framework for the Riemann Hypothesis
 
+**Key Clarification: U(t) is a dynamical geometric wall-thickness function that varies strictly with the imaginary part t of the non-trivial zero, NOT a fixed constant.**
+
 **Author**: Jie Peiying (揭培英)  
 **Preprint**: April 23, 2026  
 **License**: CC BY 4.0
