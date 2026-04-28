@@ -1,6 +1,6 @@
 # J‑constant Geometric Framework for the Riemann Hypothesis (Z6)
 
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19770193-blue)](https://doi.org/10.5281/zenodo.19770193)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19865046-blue)](https://doi.org/10.5281/zenodo.19865046)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -55,7 +55,7 @@ All data are machine‑precision and fully reproducible.
 ## 🔗 DOI & Citation
 
 **This version (Z6) is archived on Zenodo with a permanent DOI:**  
-[https://doi.org/10.5281/zenodo.19770193](https://doi.org/10.5281/zenodo.19770193)
+[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19865046-blue)](https://doi.org/10.5281/zenodo.19865046)
 
 ### BibTeX
 ```bibtex
@@ -64,7 +64,7 @@ All data are machine‑precision and fully reproducible.
   author  = {Jie, Peiying},
   journal = {Zenodo},
   year    = {2026},
-  doi     = {10.5281/zenodo.19770193},
+  doi     = {10.5281/zenodo.19865046},
   url     = {https://github.com/J-constant-math/-J-constant-Riemann-}
 }
 ```
