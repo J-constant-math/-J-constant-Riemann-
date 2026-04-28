@@ -32,7 +32,7 @@ This repository contains the **final version (Z6)** of the paper, the complete L
 
 ## 📄 Paper Summary
 
-- **Core constant** $J_\infty = \gamma_E/(2\pi)$ (from Euler’s constant)
+- **Core constant**  $J_\infty = \gamma_E/(2\pi)$ (from Euler’s constant)
 - **Geometric axiom** $a-b = J_\infty$ for every non‑trivial zero
 - **Compensation identity** $C + 2J = 2\pi(a-b)$ → high‑precision ellipse perimeter ($1.87\!\times\!10^{-7}\%$ error)
 - **One‑to‑one correspondence** $t_k \leftrightarrow e_k$ validated for 113 zeros (forward precision $10^{-159}$, backward error $10^{-16}$)
