@@ -1,3 +1,4 @@
+This repository is archived. The final geometric proof is now at geometric-riemann-proof.
 # J‑constant Geometric Framework for the Riemann Hypothesis (Z6)
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.19865046-blue)](https://doi.org/10.5281/zenodo.19865046)
